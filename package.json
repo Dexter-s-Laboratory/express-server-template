@@ -4,5 +4,9 @@
     "node": "^20.5.0",
     "pg-promise": "^11.5.2",
     "postgres": "^3.3.5"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2",
+    "supertest": "^6.3.3"
   }
 }
